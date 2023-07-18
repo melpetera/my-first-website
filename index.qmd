@@ -10,4 +10,4 @@ In this project we aim to visualize the trends of the most frequently used babyn
     -   boys
 -   Plot the yearly trend of the top 10 baby names
 
-![](https://d29fhpw069ctt2.cloudfront.net/clipart/101078/preview/kotik_baby_01_preview_f57c.png){width="400" fig-align="right"}
+[![](https://d29fhpw069ctt2.cloudfront.net/clipart/101078/preview/kotik_baby_01_preview_f57c.png){width="400" fig-align="right"}](https://openclipart.org/detail/3502/baby-01)
